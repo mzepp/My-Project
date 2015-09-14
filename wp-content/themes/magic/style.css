@@ -70,11 +70,11 @@ nav ul {
     display: inline-block;
 }
 
-a {
+nav ul a {
     color: white;
 }
 
-a:hover {
+nav ul a:hover {
     color: black;
 }
 
