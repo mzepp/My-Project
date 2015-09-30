@@ -1,7 +1,7 @@
 # Wordpress-Theme-1
 Synopsis
 
-My first custom wordpress theme.  It is a very basic theme to start, but I will be adding new features to it.
+My first custom wordpress theme.  It is a very basic theme to start, but I will be adding new features to it.  I will also be adding other themes as well.
 
 
 Motivation
